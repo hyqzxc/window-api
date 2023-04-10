@@ -1,0 +1,30 @@
+Microsoft Visual Studio 解決方案檔案，格式版本 12.00
+# Visual Studio Version 17
+可视化工作室版本 = 17.4.33403.182
+最低可视化工作室版本 = 10.0.40219.1
+Project（“{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}”） = “Windows API Hooking”， “Windows API Hooking.vcxproj”， “{9BEE8FD1-E022-46E8-A871-47E807CCD487}” 
+结束项目
+全球
+	全局部分（解决方案配置平台） = 预解决方案
+		调试|x64 = 调试|x64
+		调试|x86 = 调试|x86
+		发布|x64 = 发布|x64
+		发布|x86 = 发布|x86
+	结束全局部分
+	全局部分（项目配置平台） = 后解决方案
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.调试|x64.ActiveCfg = 调试|x64
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.调试|x64.构建。0 = 调试|x64
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.调试|x86.ActiveCfg = 调试|赢32
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.调试|x86.构建。0 = 调试|赢32
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.发布|x64.ActiveCfg = 发布|x64
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.发布|x64.构建。0 = 发布|x64
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.发布|x86.ActiveCfg = 发布|赢32
+		{9BEE8FD1-E022-46E8-A871-47E807CCD487}.发布|x86.构建。0 = 发布|赢32
+	结束全局部分
+	全局部分（解决方案属性） = 预解决方案
+		HideSolutionNode = FALSE
+	结束全局部分
+	GlobalSection（ExtensibilityGlobals） = postSolution
+		解决方案Guid = {1E5290C2-556B-454B-BA91-EB8033F8985A}
+	结束全局部分
+结束全球
